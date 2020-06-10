@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: MathTest
+Test set: IntervaloTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in MathTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.071 s - in IntervaloTest
