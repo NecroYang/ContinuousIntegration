@@ -12,7 +12,7 @@ class IntervaloTest {
 	
 	@BeforeEach
 	void setUp() throws Exception{
-		inter= new Intervalo(1,2);
+		inter= new Intervalo(1,10);
 	}
 	
 	@Test
